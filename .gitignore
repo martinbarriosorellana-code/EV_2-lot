@@ -1,0 +1,28 @@
+
+# Configuración local
+local.properties
+
+# Archivos de Android Studio
+.idea/
+*.iml
+
+# Compilaciones
+.gradle/
+build/
+**/build/
+
+# Archivos generados
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Credenciales y secretos
+*.jks
+*.keystore
+*.p12
+.env
+.env.*
